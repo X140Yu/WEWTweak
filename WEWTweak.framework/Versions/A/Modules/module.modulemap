@@ -1,0 +1,6 @@
+framework module WEWTweak {
+  umbrella header "WEWTweak.h"
+
+  export *
+  module * { export * }
+}

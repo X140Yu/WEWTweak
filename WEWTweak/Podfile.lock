@@ -1,0 +1,16 @@
+PODS:
+  - JRSwizzle (1.0)
+
+DEPENDENCIES:
+  - JRSwizzle
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JRSwizzle
+
+SPEC CHECKSUMS:
+  JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
+
+PODFILE CHECKSUM: 7f306fc990a0bd9fcb3cfe508061854e07a91b87
+
+COCOAPODS: 1.6.0.beta.2

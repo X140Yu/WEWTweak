@@ -1,0 +1,5 @@
+
+target 'WEWTweak' do
+  pod 'JRSwizzle'
+
+end
