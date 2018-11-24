@@ -1,5 +1,7 @@
 # 去除企业微信 Mac 端水印
 
+[手把手教你给企业微信 Mac 客户端去除水印](https://zhaoxinyu.me/2018-11-24-crack-wew/)
+
 <img src="images/1.png" width="700"/>
 
 ## Install
