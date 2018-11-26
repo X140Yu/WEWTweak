@@ -8,7 +8,7 @@
 
 ```shell
 # quit the app first
-git clone git@github.com:X140Yu/WEWTweak.git
+git clone https://github.com/X140Yu/WEWTweak.git
 cd WEWTweak
 sudo make install
 ```
