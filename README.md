@@ -1,11 +1,11 @@
 # 企业微信 Mac 插件
 
-##　Features 
+[手把手教你给企业微信 Mac 客户端去除水印](https://zhaoxinyu.me/2018-11-24-crack-wew/)
+
+## Features
 
 - ✅ 去聊天页面水印
 - ✅ 任意链接直接从系统默认浏览器打开
-
-[手把手教你给企业微信 Mac 客户端去除水印](https://zhaoxinyu.me/2018-11-24-crack-wew/)
 
 <img src="images/1.png" width="700"/>
 
@@ -35,3 +35,5 @@ This alert pops up everytime I start the app, haven’t figure how to deal with 
 ## License
 
 GPLv3, see LICENSE file for more information.
+
+Appreciate a 🌟 if you like it. 
