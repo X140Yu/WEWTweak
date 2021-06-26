@@ -1,6 +1,6 @@
 # 企业微信 Mac 插件
 
-[手把手教你给企业微信 Mac 客户端去除水印](https://zhaoxinyu.me/2018-11-24-crack-wew/)
+[手把手教你给企业微信 Mac 客户端去除水印](https://zxy.vercel.app/crack-wechat-work)
 
 ## Features
 
